@@ -168,7 +168,7 @@
 ---
 ## Academics Studies
 
- - Student Master in Eletrical Engineering at UNICAMP
+ - Student Master Degree in Eletrical Engineering at UNICAMP
     - Graphics Computer;
     - Machine Learning; 
     - Sinals Processing; and
