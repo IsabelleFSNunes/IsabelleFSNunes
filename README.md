@@ -74,7 +74,6 @@
 
 
 * Software Quality 
-    * Load Tests <p>
    <div>
         <code> 
             <img height="40" src="https://jmeter.apache.org/images/logo.svg">
@@ -82,9 +81,6 @@
         <!-- <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" title="Jmeter">
         </code> -->
-    </div>
-    * Unit Tests <p>
-    <div>
         <code> 
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" title="Jest">
         </code>
@@ -161,15 +157,30 @@
 * Octave
 * R -->
 
+### Another experience (Basics, for now):
+- Apps with Flutter;
+- Low/No Code with Bubble;
+- Development od SDKs for Apps;
+- Training of ML models;
+
+
 ---
 ---
 ## Academics Studies
- - Bachelor degree in Computer Engineering
+
+ - Student Master in Eletrical Engineering at UNICAMP
+    - Graphics Computer;
+    - Machine Learning; 
+    - Sinals Processing; and
+    - Software development for Photovoltaic Systems.
+
+
+ - Bachelor degree in Computer Engineering at UFMS
     - Software development;
     - Optimization algorithms;
     - Algebraics theories in classic and modern control (PID, Lead Lag and LMIs); and
     - Semi Definite Programming. 
- <!-- - Student Master in Eletrical Engineering -->
+
 
 ---
 <!--
