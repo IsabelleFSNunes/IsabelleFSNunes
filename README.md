@@ -47,9 +47,9 @@
         <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="Javascript">
         </code>
-        <code>
+        <!-- <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="Node js">
-        </code>
+        </code>  -->
         <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React">
         </code>
