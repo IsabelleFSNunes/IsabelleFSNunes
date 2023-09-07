@@ -43,7 +43,8 @@
     * Python -->
 
 ### Database
-    <div>
+
+   <div>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" title="MySql">
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
     </div>
@@ -51,7 +52,7 @@
 
 
 ### Software Quality 
-   <div>
+  <div>
             <img height="40" src="https://jmeter.apache.org/images/logo.svg">
         <!-- <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" title="Jmeter">
@@ -68,7 +69,7 @@
         * Jest -->
 
 ### DevOps
-    <div>
+<div>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg" title="Azure">
             <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker">
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" title="Git">
@@ -111,7 +112,7 @@
 ### Another experience (Basics, for now):
 - Apps with Flutter;
 - Low/No Code with Bubble;
-- Development od SDKs for Apps;
+- Development of SDKs for Apps;
 - Training of ML models;
 
 
@@ -119,9 +120,10 @@
 ---
 ## Academics Studies
 
- - Student Master Degree in Electrical Engineering at UNICAMP
+ - Student Master's Degree in Electrical Engineering at UNICAMP
     - Graphics Computer;
     - Software development for Photovoltaic Systems.
+    - Full-Stack Developer
 
 
  - Bachelor's degree in Computer Engineering at UFMS
