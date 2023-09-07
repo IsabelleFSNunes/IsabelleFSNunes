@@ -30,9 +30,8 @@
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core">
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="Javascript">
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="Node js">
-        <!--  <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React">
-        </code>  -->
+            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="React">
     </div>
 
 <!-- * C# (.NET Core / ASP NET Core)
@@ -42,9 +41,7 @@
 * Database
     <div>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" title="MySql">
-        <!-- <code>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="Hbase">
-        </code> -->
     </div>
 <!-- * MySQL -->
 
@@ -118,17 +115,15 @@
 ---
 ## Academics Studies
 
- - Student Master Degree in Eletrical Engineering at UNICAMP
+ - Student Master Degree in Electrical Engineering at UNICAMP
     - Graphics Computer;
-    - Machine Learning; 
-    - Sinals Processing; and
     - Software development for Photovoltaic Systems.
 
 
- - Bachelor degree in Computer Engineering at UFMS
+ - Bachelor's degree in Computer Engineering at UFMS
     - Software development;
     - Optimization algorithms;
-    - Algebraics theories in classic and modern control (PID, Lead Lag and LMIs); and
+    - Algebraic theories in classic and modern control (PID, Lead Lag and LMIs); and
     - Semi Definite Programming. 
 
 
