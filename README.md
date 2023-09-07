@@ -12,6 +12,12 @@
 ---
 ## Programming Skills 
 
+### Frontend
+  <div>
+            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React">
+            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="React">
+  </div>
+
 ### Backend
 * Development :
     <div>
@@ -43,11 +49,7 @@
     </div>
 <!-- * MySQL -->
 
-* Frontend
-  <div>
-            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" title="React">
-            <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="React">
-  </div>
+
 * Software Quality 
    <div>
             <img height="40" src="https://jmeter.apache.org/images/logo.svg">
