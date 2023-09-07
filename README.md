@@ -42,7 +42,7 @@
     * Javascript (Node / REACT)
     * Python -->
 
-* Database
+### Database
     <div>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" title="MySql">
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
@@ -50,7 +50,7 @@
 <!-- * MySQL -->
 
 
-* Software Quality 
+### Software Quality 
    <div>
             <img height="40" src="https://jmeter.apache.org/images/logo.svg">
         <!-- <code>
@@ -67,7 +67,7 @@
         * MSTest 
         * Jest -->
 
-* DevOps
+### DevOps
     <div>
             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg" title="Azure">
             <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker">
