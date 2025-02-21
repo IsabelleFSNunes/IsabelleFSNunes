@@ -5,8 +5,6 @@
 ## About Me :woman: 
  :wrench: Engineer  
  
- :books: Researcher
- 
  :computer: Software Developer 
 
 ---
@@ -114,23 +112,6 @@
 - Low/No Code with Bubble;
 - Development of SDKs for Apps;
 - Training of ML models;
-
-
----
----
-## Academics Studies
-
- - Student Master's Degree in Electrical Engineering at UNICAMP
-    - Graphics Computer;
-    - Software development for Photovoltaic Systems.
-    - Full-Stack Developer
-
-
- - Bachelor's degree in Computer Engineering at UFMS
-    - Software development;
-    - Optimization algorithms;
-    - Algebraic theories in classic and modern control (PID, Lead Lag and LMIs); and
-    - Semi Definite Programming. 
 
 
 ---
